@@ -1,0 +1,68 @@
+[
+  {
+    "kind": "text",
+    "orig": 262144,
+    "nova_size": 43406,
+    "nova_comp_time": 1.4113875000039116,
+    "nova_decomp_time": 0.09761659998912364,
+    "zlib_size": 829,
+    "zlib_time": 0.0005521000130102038,
+    "gzip_size": 841,
+    "gzip_time": 0.0007874000002630055
+  },
+  {
+    "kind": "json",
+    "orig": 262144,
+    "nova_size": 47917,
+    "nova_comp_time": 4.904151299997466,
+    "nova_decomp_time": 0.11128670000471175,
+    "zlib_size": 965,
+    "zlib_time": 0.0005254000134300441,
+    "gzip_size": 977,
+    "gzip_time": 0.0007244999869726598
+  },
+  {
+    "kind": "code",
+    "orig": 131072,
+    "nova_size": 20449,
+    "nova_comp_time": 0.4310315000184346,
+    "nova_decomp_time": 0.051151499996194616,
+    "zlib_size": 369,
+    "zlib_time": 0.00034459997550584376,
+    "gzip_size": 381,
+    "gzip_time": 0.00034180001239292324
+  },
+  {
+    "kind": "log",
+    "orig": 262144,
+    "nova_size": 45065,
+    "nova_comp_time": 1.4075838999997359,
+    "nova_decomp_time": 0.09088959998916835,
+    "zlib_size": 841,
+    "zlib_time": 0.0004989000153727829,
+    "gzip_size": 854,
+    "gzip_time": 0.0006019000138621777
+  },
+  {
+    "kind": "random",
+    "orig": 262144,
+    "nova_size": 262232,
+    "nova_comp_time": 3.8905832000018563,
+    "nova_decomp_time": 0.013644999999087304,
+    "zlib_size": 262232,
+    "zlib_time": 0.011696200002916157,
+    "gzip_size": 262242,
+    "gzip_time": 0.006770300009520724
+  },
+  {
+    "kind": "fractal",
+    "orig": 262144,
+    "nova_size": 2162,
+    "nova_comp_time": 2.3513455000065733,
+    "nova_decomp_time": 0.013288099988130853,
+    "zlib_size": 413,
+    "zlib_time": 0.000985399994533509,
+    "gzip_size": 425,
+    "gzip_time": 0.0007896999886725098
+  }
+]

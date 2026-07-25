@@ -1,0 +1,1 @@
+# NovaGraph Compressor package

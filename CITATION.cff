@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: If you use NovaGraph in published research, please cite it.
+title: NovaGraph
+version: 0.1.0
+authors:
+  - family-names: NovaGraph
+    given-names: Contributors
+date-released: 2026-07-25
